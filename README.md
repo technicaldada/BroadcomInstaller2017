@@ -5,10 +5,10 @@ Made By SSTec Tutorials
 The software is designed to connect to the Internet and adds a Windows Firewall exception in order to do so without being interfered with.
 
 Download Broadcom Installer :   
-https://github.com/mehedishakeel/BroadcomInstaller2017.git   
+https://github.com/technicaldada/BroadcomInstaller2017.git   
 
 usage :   
-cd Desktop  git clone https://github.com/mehedishakeel/BroadcomInstaller2017.git  
+cd Desktop  git clone https://github.com/technicaldada/BroadcomInstaller2017.git  
 cd BroadcomInstaller2017  
 chmod +x ./Broadcom.sh  
 ./Broadcom.sh
@@ -21,10 +21,7 @@ Please enter your choice:
 
 
 If you have  any questions & inquiries Ask me on Comment or Contact : 
-Google + : https://plus.google.com/+SSTecTutorials 
-Twitter : https://www.twitter.com/mehedi_shakeel 
-Facebook Page : https://www.facebook.com/SSTec.Tutorials/ 
-Facebook : https://www.facebook.com/5h4k33lDcr4k3r 
-DON'T FORGET TO SUBSCRIBE!!! 
-YouTube : www.youtube.com/stectutorials
+
+WebSite : www.kalilinux.in
+
 Thank You!!!
